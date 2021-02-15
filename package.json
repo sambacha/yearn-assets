@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/sambacha/yearn-assets/issues"
   },
-  "homepage": "https://github.com/sambacha/yearn-assets#readme"
+  "homepage": "https://github.com/sambacha/yearn-assets#readme",
+  "devDependencies": {
+    "jsonlint2": "^1.7.1",
+    "svg-path": "^0.2.1",
+    "uglify-js": "^3.12.8"
+  }
 }

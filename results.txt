@@ -1,0 +1,595 @@
+$ ./node_modules/.bin/svgo -r icons/tokens/
+Processing directory 'icons/tokens/':
+
+
+logo.svg:
+Done in 17 ms!
+5.739 KiB - 65.1% = 2.002 KiB
+
+logo.svg:
+Done in 4 ms!
+1.919 KiB - 41.5% = 1.122 KiB
+
+logo.svg:
+Done in 4 ms!
+1.779 KiB - 35% = 1.156 KiB
+
+logo.svg:
+Done in 4 ms!
+3.367 KiB - 35.4% = 2.177 KiB
+
+logo.svg:
+Done in 111 ms!
+89.463 KiB - 29.3% = 63.22 KiB
+
+logo.svg:
+Done in 8 ms!
+5.478 KiB - 36.9% = 3.456 KiB
+
+logo.svg:
+Done in 10 ms!
+5.127 KiB - 42.4% = 2.954 KiB
+
+logo.svg:
+Done in 4 ms!
+2.234 KiB - 33.9% = 1.478 KiB
+
+logo.svg:
+Done in 127 ms!
+90.291 KiB - 29.5% = 63.626 KiB
+
+logo.svg:
+Done in 4 ms!
+3.636 KiB - 59.7% = 1.464 KiB
+
+logo.svg:
+Done in 3 ms!
+3.041 KiB - 35.4% = 1.965 KiB
+
+logo-alt.svg:
+Done in 3 ms!
+2.079 KiB - 43.7% = 1.171 KiB
+
+logo.svg:
+Done in 2 ms!
+1.998 KiB - 27.1% = 1.457 KiB
+
+logo-alt.svg:
+Done in 1 ms!
+1.365 KiB - 56.4% = 0.595 KiB
+
+logo.svg:
+Done in 6 ms!
+6.891 KiB - 60.5% = 2.722 KiB
+
+logo.svg:
+Done in 14 ms!
+6.168 KiB - 33.7% = 4.089 KiB
+
+logo.svg:
+Done in 5 ms!
+6.894 KiB - 60.5% = 2.725 KiB
+
+logo.svg:
+Done in 1 ms!
+0.915 KiB - 23.4% = 0.701 KiB
+
+logo.svg:
+Done in 84 ms!
+89.434 KiB - 29.5% = 63.093 KiB
+
+logo.svg:
+Done in 67 ms!
+90.117 KiB - 29.4% = 63.633 KiB
+
+logo.svg:
+Done in 3 ms!
+2.237 KiB - 37.7% = 1.394 KiB
+
+logo.svg:
+Done in 2 ms!
+3.262 KiB - 56.9% = 1.406 KiB
+
+logo.svg:
+Done in 1 ms!
+1.362 KiB - 56.6% = 0.592 KiB
+
+logo.svg:
+Done in 11 ms!
+11.255 KiB - 56.7% = 4.876 KiB
+
+logo.svg:
+Done in 4 ms!
+3.126 KiB - 42.4% = 1.8 KiB
+
+logo.svg:
+Done in 6 ms!
+5.021 KiB - 53.1% = 2.353 KiB
+
+logo.svg:
+Done in 1 ms!
+0.915 KiB - 46.5% = 0.489 KiB
+
+logo.svg:
+Done in 4 ms!
+5.613 KiB - 58.2% = 2.347 KiB
+
+logo.svg:
+Done in 1 ms!
+1.268 KiB - 25.5% = 0.944 KiB
+
+logo.svg:
+Done in 13 ms!
+12.823 KiB - 49% = 6.536 KiB
+
+logo.svg:
+Done in 82 ms!
+91.293 KiB - 29.6% = 64.301 KiB
+
+logo.svg:
+Done in 4 ms!
+7.33 KiB - 64.3% = 2.617 KiB
+
+logo.svg:
+Done in 3 ms!
+3.659 KiB - 41.6% = 2.136 KiB
+
+logo.svg:
+Done in 3 ms!
+4.626 KiB - 36.4% = 2.942 KiB
+
+logo.svg:
+Done in 3 ms!
+3.146 KiB - 36.1% = 2.012 KiB
+
+logo.svg:
+Done in 2 ms!
+2.061 KiB - 51.3% = 1.003 KiB
+
+logo.svg:
+Done in 88 ms!
+76.806 KiB - 25.1% = 57.491 KiB
+
+logo.svg:
+Done in 70 ms!
+90.549 KiB - 30% = 63.395 KiB
+
+logo.svg:
+Done in 4 ms!
+2.767 KiB - 50.3% = 1.375 KiB
+
+logo-alt.svg:
+Done in 10 ms!
+12.436 KiB - 61.7% = 4.761 KiB
+
+logo.svg:
+Done in 6 ms!
+8.426 KiB - 35.7% = 5.416 KiB
+
+logo-alt.svg:
+Done in 2 ms!
+0.557 KiB - 28.2% = 0.399 KiB
+
+logo.svg:
+Done in 65 ms!
+90.72 KiB - 29.5% = 63.915 KiB
+
+logo.svg:
+Done in 10 ms!
+13.822 KiB - 60.1% = 5.516 KiB
+
+logo.svg:
+Done in 1 ms!
+1.979 KiB - 42.4% = 1.141 KiB
+
+logo.svg:
+Done in 66 ms!
+90.819 KiB - 29.8% = 63.75 KiB
+
+logo.svg:
+Done in 2 ms!
+1.401 KiB - 41% = 0.827 KiB
+
+logo.svg:
+Done in 0 ms!
+0.557 KiB - 28.2% = 0.399 KiB
+
+logo.svg:
+Done in 66 ms!
+90.068 KiB - 29.4% = 63.579 KiB
+
+logo.svg:
+Done in 2 ms!
+2.963 KiB - 39.4% = 1.797 KiB
+
+logo.svg:
+Done in 6 ms!
+4.756 KiB - 39.4% = 2.882 KiB
+
+logo.svg:
+Done in 4 ms!
+4.639 KiB - 35.4% = 2.997 KiB
+
+logo.svg:
+Done in 2 ms!
+1.323 KiB - 47% = 0.701 KiB
+
+logo.svg:
+Done in 2 ms!
+2.354 KiB - 34.2% = 1.55 KiB
+
+logo.svg:
+Done in 1 ms!
+1.637 KiB - 46.5% = 0.875 KiB
+
+logo.svg:
+Done in 3 ms!
+5.593 KiB - 57.4% = 2.381 KiB
+
+logo.svg:
+Done in 63 ms!
+89.281 KiB - 29.5% = 62.941 KiB
+
+logo.svg:
+Done in 4 ms!
+4.882 KiB - 46.6% = 2.607 KiB
+
+logo.svg:
+Done in 3 ms!
+4.32 KiB - 40.9% = 2.555 KiB
+
+logo.svg:
+Done in 3 ms!
+4.313 KiB - 51.7% = 2.082 KiB
+
+logo.svg:
+Done in 2 ms!
+2.303 KiB - 55.3% = 1.029 KiB
+
+logo.svg:
+Done in 6 ms!
+7.595 KiB - 57.2% = 3.25 KiB
+
+logo.svg:
+Done in 4 ms!
+5.593 KiB - 57.4% = 2.381 KiB
+
+logo.svg:
+Done in 4 ms!
+5.648 KiB - 33.7% = 3.744 KiB
+
+logo.svg:
+Done in 4 ms!
+4.984 KiB - 59.4% = 2.022 KiB
+
+logo.svg:
+Done in 69 ms!
+78.861 KiB - 26.1% = 58.245 KiB
+
+logo.svg:
+Done in 1 ms!
+1.791 KiB - 31.2% = 1.232 KiB
+
+logo.svg:
+Done in 6 ms!
+7.327 KiB - 64.3% = 2.614 KiB
+
+logo.svg:
+Done in 4 ms!
+5.59 KiB - 57.5% = 2.378 KiB
+
+logo.svg:
+Done in 8 ms!
+2.722 KiB - 45.5% = 1.482 KiB
+
+logo.svg:
+Done in 4 ms!
+6.111 KiB - 37% = 3.853 KiB
+
+logo.svg:
+Done in 13 ms!
+5.468 KiB - 59.1% = 2.236 KiB
+
+logo.svg:
+Done in 72 ms!
+85.273 KiB - 27.2% = 62.088 KiB
+
+logo.svg:
+Done in 4 ms!
+5.61 KiB - 58.2% = 2.344 KiB
+
+logo.svg:
+Done in 72 ms!
+77.861 KiB - 25.7% = 57.879 KiB
+
+logo.svg:
+Done in 1 ms!
+0.731 KiB - 16.8% = 0.608 KiB
+
+logo.svg:
+Done in 0 ms!
+0.824 KiB - 29.3% = 0.583 KiB
+
+logo.svg:
+Done in 0 ms!
+0.875 KiB - 31.9% = 0.596 KiB
+
+logo.svg:
+Done in 2 ms!
+2.849 KiB - 48.6% = 1.465 KiB
+
+logo.svg:
+Done in 2 ms!
+2.276 KiB - 54.8% = 1.028 KiB
+
+logo.svg:
+Done in 12 ms!
+11.188 KiB - 44.6% = 6.197 KiB
+
+logo.svg:
+Done in 4 ms!
+4.437 KiB - 47.3% = 2.338 KiB
+
+logo.svg:
+Done in 4 ms!
+4.121 KiB - 34% = 2.721 KiB
+
+logo.svg:
+Done in 72 ms!
+106.203 KiB - 30.1% = 74.271 KiB
+
+logo.svg:
+Done in 2 ms!
+2.434 KiB - 33.7% = 1.614 KiB
+
+logo.svg:
+Done in 60 ms!
+89.18 KiB - 29.3% = 63.041 KiB
+
+logo.svg:
+Done in 1 ms!
+0.757 KiB - 51.1% = 0.37 KiB
+
+logo.svg:
+Done in 2 ms!
+3.772 KiB - 55% = 1.696 KiB
+
+logo.svg:
+Done in 3 ms!
+2.829 KiB - 26.9% = 2.069 KiB
+
+logo.svg:
+Done in 3 ms!
+4.764 KiB - 36.4% = 3.03 KiB
+
+logo.svg:
+Done in 2 ms!
+1.652 KiB - 36.5% = 1.05 KiB
+
+logo.svg:
+Done in 4 ms!
+6.894 KiB - 60.5% = 2.725 KiB
+
+logo.svg:
+Done in 1 ms!
+1.775 KiB - 52.8% = 0.838 KiB
+
+logo.svg:
+Done in 2 ms!
+2.298 KiB - 51.5% = 1.115 KiB
+
+logo.svg:
+Done in 10 ms!
+16.219 KiB - 65.7% = 5.558 KiB
+
+logo.svg:
+Done in 4 ms!
+4.854 KiB - 36.9% = 3.064 KiB
+
+logo.svg:
+Done in 4 ms!
+3.016 KiB - 55.3% = 1.349 KiB
+
+logo.svg:
+Done in 6 ms!
+10.268 KiB - 67.3% = 3.355 KiB
+
+logo.svg:
+Done in 1 ms!
+2.133 KiB - 18.3% = 1.743 KiB
+
+logo.svg:
+Done in 6 ms!
+6.891 KiB - 60.5% = 2.722 KiB
+
+logo.svg:
+Done in 2 ms!
+1.842 KiB - 30.7% = 1.276 KiB
+
+logo.svg:
+Done in 77 ms!
+78.861 KiB - 26.1% = 58.245 KiB
+
+logo.svg:
+Done in 64 ms!
+90.638 KiB - 29.5% = 63.894 KiB
+
+logo.svg:
+Done in 62 ms!
+89.915 KiB - 29.3% = 63.529 KiB
+
+logo.svg:
+Done in 56 ms!
+73.233 KiB - 21.3% = 57.662 KiB
+
+logo.svg:
+Done in 58 ms!
+91.262 KiB - 29.7% = 64.122 KiB
+
+logo.svg:
+Done in 2 ms!
+3.003 KiB - 38.8% = 1.837 KiB
+
+logo.svg:
+Done in 4 ms!
+5.61 KiB - 58.2% = 2.344 KiB
+
+logo.svg:
+Done in 2 ms!
+2.941 KiB - 33.9% = 1.945 KiB
+
+logo-alt.svg:
+Done in 2 ms!
+1.324 KiB - 31.6% = 0.906 KiB
+
+logo.svg:
+Done in 1 ms!
+2.554 KiB - 48.3% = 1.319 KiB
+
+logo.svg:
+Done in 0 ms!
+0.821 KiB - 51% = 0.402 KiB
+
+logo.svg:
+Done in 5 ms!
+4.223 KiB - 36.9% = 2.665 KiB
+
+logo.svg:
+Done in 3 ms!
+3.871 KiB - 53.4% = 1.805 KiB
+
+logo.svg:
+Done in 5 ms!
+7.063 KiB - 59.7% = 2.846 KiB
+
+logo.svg:
+Done in 13 ms!
+16.332 KiB - 42.1% = 9.45 KiB
+
+logo.svg:
+Done in 6 ms!
+10.352 KiB - 23.5% = 7.914 KiB
+
+logo-alt.svg:
+Done in 1 ms!
+1.315 KiB - 52.7% = 0.622 KiB
+
+logo.svg:
+Done in 1 ms!
+1.315 KiB - 52.7% = 0.622 KiB
+
+logo.svg:
+Done in 3 ms!
+4.229 KiB - 34.5% = 2.77 KiB
+
+logo.svg:
+Done in 1 ms!
+1.077 KiB - 33.3% = 0.719 KiB
+
+logo.svg:
+Done in 14 ms!
+23.43 KiB - 64.5% = 8.307 KiB
+
+logo.svg:
+Done in 2 ms!
+3.014 KiB - 30.8% = 2.087 KiB
+
+logo.svg:
+Done in 11 ms!
+18.256 KiB - 32.7% = 12.283 KiB
+
+logo.svg:
+Done in 2 ms!
+1.579 KiB - 43.6% = 0.891 KiB
+
+logo-alt.svg:
+Done in 1 ms!
+1.642 KiB - 45.2% = 0.899 KiB
+
+logo.svg:
+Done in 1 ms!
+1.188 KiB - 25.6% = 0.884 KiB
+
+logo.svg:
+Done in 63 ms!
+94.449 KiB - 29.7% = 66.421 KiB
+
+logo.svg:
+Done in 1 ms!
+1.413 KiB - 48.4% = 0.729 KiB
+
+logo.svg:
+Done in 4 ms!
+5.229 KiB - 34.8% = 3.411 KiB
+
+logo.svg:
+Done in 24 ms!
+22.96 KiB - 31.2% = 15.785 KiB
+
+logo-alt.svg:
+Done in 17 ms!
+22.688 KiB - 31.1% = 15.641 KiB
+
+logo.svg:
+Done in 3 ms!
+5.471 KiB - 59.1% = 2.239 KiB
+
+logo.svg:
+Done in 3 ms!
+3.246 KiB - 31.6% = 2.22 KiB
+
+logo.svg:
+Done in 3 ms!
+3.636 KiB - 59.7% = 1.464 KiB
+
+logo.svg:
+Done in 4 ms!
+5.59 KiB - 57.5% = 2.378 KiB
+
+logo.svg:
+Done in 2 ms!
+4.029 KiB - 56.9% = 1.737 KiB
+
+logo.svg:
+Done in 2 ms!
+1.506 KiB - 25% = 1.13 KiB
+
+logo-alt.svg:
+Done in 2 ms!
+2.55 KiB - 46% = 1.377 KiB
+
+logo.svg:
+Done in 2 ms!
+3.305 KiB - 30.7% = 2.29 KiB
+
+logo.svg:
+Done in 6 ms!
+3.598 KiB - 50.8% = 1.77 KiB
+
+logo.svg:
+Done in 4 ms!
+3.426 KiB - 40.9% = 2.025 KiB
+
+logo.svg:
+Done in 1 ms!
+1.175 KiB - 34.8% = 0.766 KiB
+
+logo.svg:
+Done in 2 ms!
+1.992 KiB - 31% = 1.375 KiB
+
+logo.svg:
+Done in 1 ms!
+1.032 KiB - 42.1% = 0.598 KiB
+
+logo.svg:
+Done in 4 ms!
+5.007 KiB - 59.4% = 2.034 KiB
+
+logo.svg:
+Done in 3 ms!
+4.017 KiB - 52.6% = 1.904 KiB
+
+logo.svg:
+Done in 70 ms!
+80.577 KiB - 26.5% = 59.249 KiB

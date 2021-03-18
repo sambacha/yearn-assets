@@ -1,4 +1,4 @@
-
+// @file yearn-assets
 var icons = {%s};
 
 Object.defineProperty(icons, "get", {

@@ -1,0 +1,56 @@
+{
+  "name": "yearn-icons",
+  "version": "0.0.0",
+  "description": "yearn finance static assets ",
+  "main": "dist/index.svg",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "gulp --gulpfile scripts/gulpfile.js --cwd .",
+    "build:demo": "build-storybook -s ./dist -o demo",
+    "lint:svg": "svglint src/**/*.svg",
+    "format:optimize": "svgo",
+    "format": "prettier-package-json --write && prettier --loglevel warn ./ --write && yarn format:optimize src --recursive --quiet",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yearn/yearn-assets.git"
+  },
+  "author": "sam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yearn/yearn-assets/issues"
+  },
+  "homepage": "https://github.com/yearn/yearn-assets#readme",
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@storybook/addon-actions": "^6.1.21",
+    "@storybook/addon-docs": "^6.1.21",
+    "@storybook/addon-essentials": "^6.1.21",
+    "@storybook/addon-links": "^6.1.21",
+    "@storybook/react": "^6.1.21",
+    "@zendeskgarden/react-grid": "^8.34.0",
+    "@zendeskgarden/react-typography": "^8.34.0",
+    "babel-loader": "^8.2.2",
+    "gulp": "^4.0.2",
+    "gulp-file": "^0.4.0",
+    "gulp-svg-sprite": "^1.5.0",
+    "jsonlint2": "^1.7.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.2.1",
+    "svglint": "^1.0.7",
+    "svgo": "^2.2.2",
+    "typescript": "^4.2.3",
+    "webpack": "^5.26.3"
+  }
+}
